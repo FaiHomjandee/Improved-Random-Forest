@@ -11,6 +11,6 @@ See paper below...
 
 
 
-# Paper have been publish in 2021,
+# Paper has been published in 2021,
 Homjandee, S., & Sinapiromsaran, K. (2021). A Random Forest with Minority Condensation and Decision Trees for Class Imbalanced Problems. WSEAS TRANSACTIONS ON SYSTEMS AND CONTROL.  
 https://doi.org/10.37394/23203.2021.16.46
