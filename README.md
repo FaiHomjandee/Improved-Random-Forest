@@ -2,8 +2,8 @@
 My master thesis at Chulalongkorn University 2019   
 I did the mixed of Minority Condensation Decisition Tree, and Standard Decisiton Tree for classification of imbalanced problems   
     
-Purpose of our project is tried to imoprove a popular classifier named as Random Forest (RF).  
-We fixed the problem of Decision Treev(DT) which they are collected within RF. Its classify return low of accuracy when it face with complex of imformation as a imbalanced of the dataset. 
+Purpose of our project is tried to improve a popular classifier named as Random Forest (RF).  
+We fixed the problem of Decision Treev(DT) which they are collected within RF. Its classify return low of accuracy when they face with complex of imformation as a imbalanced of the dataset. 
 
 
 
